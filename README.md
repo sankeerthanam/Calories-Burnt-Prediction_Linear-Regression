@@ -49,7 +49,7 @@ Heatmap of correlations confirmed main influencing features.
 
 * Tuned Hyperparameters:
 
-  ```python
+ python
   model = XGBRegressor(
       n_estimators=200,
       learning_rate=0.1,
@@ -58,7 +58,7 @@ Heatmap of correlations confirmed main influencing features.
       colsample_bytree=0.8,
       random_state=42
   )
-  ```
+  
 * Captures **non-linear interactions** between features.
 * Performs **cross-validation (5-fold)** for robust evaluation.
 

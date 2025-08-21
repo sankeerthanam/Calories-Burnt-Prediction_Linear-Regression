@@ -1,6 +1,6 @@
 
 
-🔥 Calories Burnt Prediction (XGBoost vs Linear Regression)
+## 🔥 Calories Burnt Prediction (XGBoost vs Linear Regression)
 
 📌 Project Overview
 
